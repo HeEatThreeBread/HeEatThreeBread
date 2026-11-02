@@ -1,16 +1,28 @@
-## Hi there 👋
+#Hi, I'm Vaishnav 👋
 
-<!--
-**HeEatThreeBread/HeEatThreeBread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Instrumentation Engineering Student
 
-Here are some ideas to get you started:
+I'm interested in building things at the intersection of hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+
+- C Programming
+- Embedded Systems
+- Microcontrollers
+- Control Systems
+
+Areas of Interest
+
+- Embedded Systems & Firmware Development
+- Robotics & Automation
+- Electronics and Hardware Design
+
+Goals
+
+- Strengthen my programming fundamentals
+- Build practical engineering projects
+- Document my learning and projects on GitHub
+
+---
+
+Learning by building, experimenting, and improving.
